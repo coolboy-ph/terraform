@@ -1,3 +1,7 @@
+3x Nginx Server = ["nginx-server", "nginx-web-server-1", "nginx-web-server-2"]
+   Private IPs  = ["10.0.1.50"   , "10.0.1.51"         , "10.0.1.52"         ]
+Route53         = Create zone using with "nginx-server" public ip   
+
 vpc.tf
 1. Create vpc 
 2. Create a Subnet 
