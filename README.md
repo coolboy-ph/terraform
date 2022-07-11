@@ -1,4 +1,4 @@
-VPC.tf
+vpc.tf
 1. Create vpc 
 2. Create a Subnet 
 3. Create Custom Route Table
